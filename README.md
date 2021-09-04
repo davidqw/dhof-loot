@@ -21,9 +21,9 @@ The `/` directory contains scripts and data for Loot, and `/derivatives` contain
 
 ## Distribution
 
-- tokenIds `1` to `7778` claimable by user.
-- tokenIds `7778` to `8000` claimable by contract owner.
-- Each token has attributes: `chest`, `foot`, `hand`, `head`, `neck`, `ring`, `waist`, `weapon`.
+- tokenIds `1` to `8000` by [Loot](https://etherscan.io/token/0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7) 
+- tokenIds `8001` to `16000` by [xLoot](https://etherscan.io/token/0x8bf2f876e2dcd2cae9c3d272f325776c82da366d)
+- tokenIds `16001` to `24000` by [pLoot](https://etherscan.io/token/0x03ea00b0619e19759ee7ba33e8eb8e914fbf52ea)
 
 ## Output
 
@@ -51,12 +51,6 @@ npm run images
 
 To run derivative scripts, follow the README in their subdirectory.
 
-# Derivatives
-
-- [Ability Score](https://github.com/Anish-Agnihotri/dhof-loot/tree/master/derivatives/ability-score) — Ability score NFTs by [andy8052](https://twitter.com/andy8052)
-- [Extension Loot](https://github.com/Anish-Agnihotri/dhof-loot/tree/master/derivatives/extension-loot) — Data for the [Extension Loot](https://twitter.com/xLootProject) project
-- [Synthetic Loot Botting](https://github.com/Anish-Agnihotri/dhof-loot/tree/master/derivatives/synthetic-loot) — Botting ideal synthetic loot by mass generating addresses
-- [Fork: Dope Wars Loot](https://github.com/cybergen/dope-wars-loot) by [@cybergen](https://cybergen/dope-wars-loot)
 
 # Credits
 
